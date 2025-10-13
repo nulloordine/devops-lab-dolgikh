@@ -10,6 +10,4 @@ Date of finished:
 
 Доказательствами выполнения лабораторной работы прошу считать историю изменений этого репозитория
 
-![Скриншот выполнения лабораторной работы][def]
-
-[def]: /Users/vladislavdolgih/Documents/GitHub/devops-lab-dolgikh/lab0/screenshot_2025-10-13.png
+1) ![lab0.png](lab0.png)
