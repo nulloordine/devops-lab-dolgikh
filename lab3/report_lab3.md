@@ -5,10 +5,10 @@ Faculty: FTMI\
 Course: [introduction-in-web-tech](https://itmo-ict-faculty.github.io/introduction-in-web-tech)\
 Year: 2025/2026\
 Group: U4225\
-Author: Laptev Anatoly Aleksandrovich\
+Author: Vladislav\
 Lab: Lab3\
-Date of create: 05.10.2025\
-Date of finished: 06.10.2025
+Date of create: 16.10.2025\
+Date of finished: 16.10.2025
 
 1) Создание конфигурации Prometheus:
 * Создать папку prometheus для конфигурации
